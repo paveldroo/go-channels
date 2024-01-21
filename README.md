@@ -1,0 +1,1 @@
+### This is a private tiny project to grasp how go channels work
